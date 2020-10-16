@@ -1,0 +1,22 @@
+{
+  "name": "amysshop-ecommerce-app",
+  "version": "1.0.0",
+  "description": "MERN Shopping Cart App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebou-touray/AmysShop-Ecommerce-App.git"
+  },
+  "author": "Ebou Touray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebou-touray/AmysShop-Ecommerce-App/issues"
+  },
+  "homepage": "https://github.com/ebou-touray/AmysShop-Ecommerce-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
